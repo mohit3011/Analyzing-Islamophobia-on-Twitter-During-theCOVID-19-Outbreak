@@ -1,0 +1,45 @@
+More than 50% of Corona Positive Patients are from the people who attended Tablighi Jamaath !!! Announces Malaysian Government .. These Peacefools Never let any National Peacefully  These people are Disgarce to Humans 
+Tone 99.00, Positive 6.45, Negative 0.00, Anger 0.00
+-> False positive: The tweet blames Muslims and calls them a disgrace to humans, yet is assigned a high tone score with some value to the positive emotion as well.
+
+
+This Pakistani Islamic preacher is praying to Allah to divert all COVID-19 infections to non-Muslim nations. Of course, Islam stands for compassion, peace and humanity. https://t.co/AUlxCNgdK9 
+Tone 99.00, Positive 6.25, Negative 0.00, Anger 0.00
+-> False positive: Tweet gets a high tones score and positive score by LIWC. However, it is sarcastic in nature and is actually demeaning Muslims.
+
+
+387 COVID Cases in a Single Day...
+Highest ever spike in India...
+All thanx to #NizamuddinIdiots
+Tone 99.00, Authentic 95.60, Positive 6.25, Negative 0.00, Anger 0.00
+-> False positive: High tone score and positive emotion score despite the tweet being Islamophobic and using the trending (hateful) hashtag #NizamuddinIdiots 
+
+
+Godi Media called them TERRORISTS.
+Accused them of Corona Jihad – provoked INNOCENT Indians.
+Objective: DEMONIZE Muslims &amp; create HATRED
+Tools Used: FAKE News
+TRUTH prevails: #TabligiHeroes donated #Plasma to SAVE LIVES of COVID patients.
+RT to spread POSITIVE vibes &amp; PEACE. https://t.co/oqGGtagAXM
+Tone 99.00, Authentic 1.00, Positive 13.04, Negative 6.52, Anger 2.17
+
+Hundreds of Muslim worshippers performed Fajr prayer today at #MasjidAlAqsa in occupied #Jerusalem, after the mosque was reopened to worshippers following a 70-day shutdown due to the COVID-19 pandemic.
+#MasjidAlAqsa #Palestine #AlAqsa #AlQuds https://t.co/8uCyO9Q0Yz
+Tone 95.81, Authentic 23.51, Positive 4.76, Negative 0.00, Anger 0.00
+-> The tweets are positive and neutral in nature but LIWC assigns a high tone score (> 95+) in both cases. There is no clear distinction between the positive and negative emotion scores and anger scores either to allow us to distinguish between positive and neutral tweets.
+
+
+“Ignorance leads to fear, and fear leads to hate,” said Ibn Rushd (Averroes), Muslim scholar from North Africa, 800 years ago. Together stand against xenophobia and hate in responding to #COVID19,  put #stigmaaway and #LeaveNoOneBehind https://t.co/bOiRYQvRec
+Tone 1.00, Authentic 74.76, Positive 0.00, Negative 10.00, Anger 5.00
+-> Tweet denounces Islamophobia and encourages coming together to fight stigmas. Yet, it is assigned a very low tone score implying the tone is gloomy. It also has a substantial score for the negative emotion and anger attributes. This may be due to the dictionary based approach of LIWC that registers terms like ignorance, fear, hate, xenophobia, etc and assigns overall negative scores.
+
+
+During Pandemic Indian Muslims are fighting against two viruses Corona Virus Islamophobia Virus #StopTargetingMuslim 
+Tone 1.00, Authentic 7.84, Positive 0.00, Negative 6.25, Anger 6.25
+-> The tweet encourages to not target Muslims, yet receives a low tone score and high scores for negative emotion and anger attributes. This may be due to terms like 'virus' and 'pandemic'.
+
+
+If you're a Muslim, you cannot go out and buy essential food for your family during #coronavirus lockdown! You risk being brutally attacked like Imran 👇
+#Islamophobia_In_India #StopTargetingMuslim https://t.co/1FTAo25cvV
+Tone 1.00, Authentic 13.15, Positive 0.00, Negative 8.57, Anger 5.71
+-> The tweet mentions the dangers Muslims in India face and encourages that they should not be targeted. Yet, it receives high anger and negative emotion scores.
