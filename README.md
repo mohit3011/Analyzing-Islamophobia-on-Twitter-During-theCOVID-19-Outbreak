@@ -4,4 +4,4 @@ The code repository for our paper "“A Virus Has No Religion”: Analyzing Isla
 ### Dataset Information
 ------
 
-`dataset/CoronaIslam_TweetIDs.tsv` contains the tweet IDs from the CoronaIslam dataset.
+`TweetIDs.tsv` contains the tweet IDs from the CoronaIslam dataset.
