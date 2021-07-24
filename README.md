@@ -4,7 +4,8 @@ The code repository for our paper "“A Virus Has No Religion”: Analyzing Isla
 ### Dataset Information
 ------
 
-`TweetIDs.tsv` contains the tweet IDs from the CoronaIslam dataset.
+- `TweetIDs.tsv` contains the tweet IDs from the CoronaIslam dataset.
+- `annotated_dataset.tsv` contains 2000 annotated tweets based on their stance towards the Muslim community. The sheet contains Tweet IDs along with the labels. **1** in the Label column dentoes an Islamophobic tweet.
 
 
 ### Topic Modelling
